@@ -13,7 +13,7 @@ body:
     id: description
     attributes:
       label: Description
-      description: "Tell us more about the problem that you're running into."
+      description: "Tell us more about the problem that you're running into. Please provide screenshots or videos when applicable."
       placeholder: What did you see? What did you expect to see?
     validations:
       required: true
